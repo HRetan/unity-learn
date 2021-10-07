@@ -1,0 +1,80 @@
+{ "skeleton": { "images": "E:/maid vs nurse/maids/images/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "bhair", "bone": "root", "attachment": "bhair" },
+	{ "name": "barm", "bone": "root", "attachment": "barm" },
+	{ "name": "weapon", "bone": "root", "attachment": "weapon" },
+	{ "name": "bcalf", "bone": "root", "attachment": "bcalf" },
+	{ "name": "bleg", "bone": "root", "attachment": "bleg" },
+	{ "name": "hip", "bone": "root", "attachment": "hip" },
+	{ "name": "fcalf", "bone": "root", "attachment": "fcalf" },
+	{ "name": "fleg", "bone": "root", "attachment": "fleg" },
+	{ "name": "skirt", "bone": "root", "attachment": "skirt" },
+	{ "name": "breast", "bone": "root", "attachment": "breast" },
+	{ "name": "weapon2", "bone": "root", "attachment": "weapon2" },
+	{ "name": "farm", "bone": "root", "attachment": "farm" },
+	{ "name": "face", "bone": "root", "attachment": "face" },
+	{ "name": "eye", "bone": "root", "attachment": "eye" },
+	{ "name": "fhair", "bone": "root", "attachment": "fhair" },
+	{ "name": "headacce", "bone": "root", "attachment": "headacce" },
+	{ "name": "eyebrow", "bone": "root", "attachment": "eyebrow" }
+],
+"skins": {
+	"default": {
+		"bhair": {
+			"bhair": { "x": 481.5, "y": -526, "width": 339, "height": 377 }
+		},
+		"barm": {
+			"barm": { "x": 577.5, "y": -631.5, "width": 100, "height": 172 }
+		},
+		"weapon": {
+			"weapon": { "x": 746.5, "y": -607, "width": 529, "height": 57 }
+		},
+		"bcalf": {
+			"bcalf": { "x": 563, "y": -810.5, "width": 68, "height": 153 }
+		},
+		"bleg": {
+			"bleg": { "x": 553.5, "y": -718.5, "width": 64, "height": 104 }
+		},
+		"hip": {
+			"hip": { "x": 514, "y": -650.5, "width": 114, "height": 102 }
+		},
+		"fcalf": {
+			"fcalf": { "x": 454, "y": -809, "width": 96, "height": 149 }
+		},
+		"fleg": {
+			"fleg": { "x": 474.5, "y": -718, "width": 69, "height": 124 }
+		},
+		"skirt": {
+			"skirt": { "x": 518, "y": -662.5, "width": 235, "height": 134 }
+		},
+		"breast": {
+			"breast": { "x": 514.5, "y": -574, "width": 94, "height": 117 }
+		},
+		"weapon2": {
+			"weapon2": { "x": 301.5, "y": -650, "width": 404, "height": 46 }
+		},
+		"farm": {
+			"farm": { "x": 432, "y": -631.5, "width": 100, "height": 172 }
+		},
+		"face": {
+			"face": { "x": 505, "y": -402.5, "width": 262, "height": 270 }
+		},
+		"eye": {
+			"eye": { "x": 531.5, "y": -463, "width": 190, "height": 75 }
+		},
+		"fhair": {
+			"fhair": { "x": 480.5, "y": -451.5, "width": 360, "height": 399 }
+		},
+		"headacce": {
+			"headacce": { "x": 488.5, "y": -283.5, "width": 344, "height": 151 }
+		},
+		"eyebrow": {
+			"eyebrow": { "x": 552, "y": -399, "width": 155, "height": 15 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}
